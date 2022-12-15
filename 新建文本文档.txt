@@ -1,0 +1,1 @@
+sudo apt install libgphoto2-6=2.5.24-1
